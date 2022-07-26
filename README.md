@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rooftopcellist/rooftopcellist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## Hi there 👋
 
 I'm currently working at Red Hat on the Ansible Automation Platform Productization Team!
 
