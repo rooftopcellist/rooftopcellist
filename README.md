@@ -28,4 +28,11 @@ I'm currently working at Red Hat on the Ansible Automation Platform Productizati
 
 ## Active contribution and commit stats
 
-https://github-readme-stats.vercel.app/api?username=rooftopcellist
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rooftopcellist">
+</p>
+
+
+<!--
+Thanks to https://github.com/anuraghazra/github-readme-stats for the stats plugin.
+-->
