@@ -28,10 +28,9 @@ I'm currently working at Red Hat on the Ansible Automation Platform Productizati
 
 ## Active contribution and commit stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rooftopcellist&count_private=true&show_icons=true">
-</p>
+![rooftopcellist's Stats](https://github-readme-stats.vercel.app/api?username=rooftopcellist&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![rooftopcellist's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rooftopcellist&theme=vue-dark&hide_border=true)
 
 <!--
 Thanks to https://github.com/anuraghazra/github-readme-stats for the stats plugin.
