@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 I'm currently working at Red Hat on the Ansible Automation Platform Productization Team!
 
 🔭 Recently, I've been mainly living in these repos:
-* https://github.com/ansible/awx
+* https://github.com/ansible/eda-server-operator
 * https://github.com/ansible/awx-operator
-* https://github.com/pulp/pulp-operator
 * https://github.com/ansible/awx-resource-operator
+* https://github.com/ansible/awx
+* https://github.com/pulp/pulp-operator
 * https://github.com/ansible/ansible-collection-memsource
 * https://github.com/ansible/ansible
 
