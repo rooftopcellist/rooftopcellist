@@ -62,6 +62,7 @@ Most of my day-to-day lives in private repos, but here's what's public:
 
 ---
 
+<!-- GitHub stats widgets powered by https://ghstats.dev/ -->
 ## 📊 GitHub Stats
 
 <div align="center">
