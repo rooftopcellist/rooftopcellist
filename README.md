@@ -4,6 +4,7 @@
 
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)](https://redhat.com)
 [![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible)
+[![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](#)
 [![Durham NC](https://img.shields.io/badge/Durham%2C_NC-%23222222.svg?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -21,8 +22,19 @@ Software engineer on the **Ansible Automation Platform Productization Team** at 
 **Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Tools & Platforms**
 
