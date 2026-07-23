@@ -66,7 +66,11 @@ Most of my day-to-day lives in private repos, but here's what's public:
 
 <div align="center">
 
-![GitHub Stats](https://ghstats.dev/api/card?username=rooftopcellist)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=rooftopcellist&theme=ayu&border_radius=9)
+
+![Top Languages](https://ghstats.dev/api/langs?username=rooftopcellist&theme=ayu&border_radius=9)
+
+![Commit Sparkline](https://ghstats.dev/api/sparkline?username=rooftopcellist&theme=ayu&days=30&width=320&height=80)
 
 </div>
 
