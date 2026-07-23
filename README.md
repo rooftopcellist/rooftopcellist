@@ -66,7 +66,7 @@ Most of my day-to-day lives in private repos, but here's what's public:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rooftopcellist&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=dark&title_color=EE0000&icon_color=EE0000&border_color=30363d)](https://github.com/rooftopcellist)
+![GitHub Stats](https://ghstats.dev/api/card?username=rooftopcellist)
 
 </div>
 
